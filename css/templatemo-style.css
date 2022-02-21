@@ -593,7 +593,6 @@ header {
 }
 
 
-
 /* Video Presentation Style */
 
 #video {
@@ -921,10 +920,10 @@ header {
 
 #detail {
   text-align: center;
-  background-color: #f4f4f4;
+  background-color: #f1f3f7;
   padding: 30px 60px 10px 60px;
 }
-
+  
 #detail .section-heading {  
   text-align: center;
 }
